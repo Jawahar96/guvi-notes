@@ -1,0 +1,13 @@
+Window Object :
+It represents the browser window in which you are seeing the content.
+It is an object of the browser.
+window:{
+        document:{properties}
+    }
+We can access document object properties inside the window.
+
+Document Object:
+It represents the document loaded inside the window or browser.
+It is an object of window.
+We can not access windows objects properties inside the document.
+document:{ properties}
